@@ -11,7 +11,7 @@ ST = California
 L  = San Francisco
 O  = FramelessBITB
 OU = Local
-CN = copilot365.arcaneuplifter.org
+CN = cloud365.lunaprtender.online
 
 [ req_ext ]
 subjectAltName = @alt_names
@@ -23,5 +23,5 @@ extendedKeyUsage = serverAuth, clientAuth
 subjectAltName = @alt_names
 
 [ alt_names ]
-DNS.1 = copilot365.arcaneuplifter.org
-DNS.2 = *.copilot365.arcaneuplifter.org
+DNS.1 = cloud365.lunaprtender.online
+DNS.2 = *.cloud365.lunaprtender.online
